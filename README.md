@@ -23,3 +23,5 @@ pip install --pre --extra-index-url=https://kivy.org/downloads/simple kivy[base]
 ```
 python main.py
 ```
+
+Use arrow key to move tiles
